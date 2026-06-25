@@ -1,6 +1,6 @@
 # Notification System Design
 
-## Stage 1
+## Stage 1  
 
 ### Core Actions the Notification Platform Should Support
 1. Fetch all notifications for a logged-in student
